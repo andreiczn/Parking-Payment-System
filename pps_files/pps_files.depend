@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679836640 source:d:\ak\uvt\parking_payment_system_files\pps_files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
